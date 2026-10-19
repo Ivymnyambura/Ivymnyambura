@@ -13,7 +13,7 @@
 
 ---
 
-### about me
+### About me
 
 I'm a software developer who enjoys building intuitive web applications, exploring intelligent systems, and bringing ideas to life through code.
 
