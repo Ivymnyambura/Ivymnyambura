@@ -1,102 +1,53 @@
 
 <div align="center">
 
-### IVY NYAMBURA / SOFTWARE DEVELOPER
+# Ivy Nyambura.
 
-# Engineering ideas.
-## *Crafting experiences.*
+**Software Developer · Full Stack · AI Enthusiast**
 
-**Full Stack Development · Artificial Intelligence · Cloud Engineering**
+*Building thoughtful digital experiences, one line of code at a time.*
 
-Building thoughtful digital experiences, exploring intelligent systems,
-and turning curiosity into code.
-
-[Portfolio](https://ivy-nyambura-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ivy-nyambura-616b51376/) · [Email](mailto:monikaivy2@gmail.com)
+[Portfolio]([https://ivy-nyambura-portfolio.vercel.app/)] (https://ivy-nyambura-portfolio-gl8u.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ivy-nyambura-616b51376/) • [Email](mailto:monikaivy2@gmail.com)
 
 </div>
 
 ---
 
-### 01 / THE PERSON BEHIND THE CODE
+### about me
 
-I'm a software developer who enjoys the intersection of engineering,
-design, and problem-solving.
+I'm a software developer who enjoys building intuitive web applications, exploring intelligent systems, and bringing ideas to life through code.
 
-My work spans frontend development, backend technologies,
-and artificial intelligence. I love creating applications that
-are functional, intuitive, and thoughtfully designed.
+- Currently building **DevSynk**
+- Exploring **AI, cloud engineering & software architecture**
+- Second Place — **One Dev Hackathon, AI Track**
 
-Currently building **DevSynk**, exploring cloud technologies,
-and strengthening my software engineering skills.
+### tech stack
 
----
+**Frontend**
 
-### 02 / WHAT I'M WORKING WITH
+![React](https://img.shields.io/badge/React-39276F?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-39276F?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-39276F?style=flat-square&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-39276F?style=flat-square&logo=angular&logoColor=white)
 
-**Frontend**  
-React · TypeScript · JavaScript · Angular · HTML · CSS
+**Backend**
 
-**Backend & Languages**  
-Python · FastAPI · Java · SQL
+![Python](https://img.shields.io/badge/Python-7654BC?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7654BC?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7654BC?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7654BC?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**  
-Git · GitHub · Vercel · Figma · PostgreSQL
+**Tools**
 
-**Exploring**  
-Cloud Engineering · Artificial Intelligence · Software Architecture
-
----
-
-### 03 / SELECTED WORK
-
-**01 — Face Tally**  
-AI-powered facial recognition attendance system.  
-Python · FastAPI · OpenCV · React  
-[Explore project](https://face-tally2-0.vercel.app/)
-
-**02 — The Abode**  
-Responsive hospitality website with interactive booking interfaces.  
-React · TypeScript · Vite  
-[Explore project](https://the-abode-teal.vercel.app/)
-
-**03 — Jirani-Mart**  
-Responsive supermarket and bakery e-commerce interface.  
-React · TypeScript · Vite
-
-**04 — DevSynk**  
-Cloud-based project management platform. Currently in development.  
-Angular · TypeScript · Java / Spring Boot (planned)
+![Git](https://img.shields.io/badge/Git-39276F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-39276F?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-39276F?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-39276F?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 04 / A LITTLE HIGHLIGHT
+<div align="center">
 
-**Second Place — One Dev Hackathon, AI Track**
+*code. create. evolve.*
 
-Recognized for Face Tally, an AI-powered attendance solution.
-
----
-
-### 05 / LET'S CONNECT
-
-I'm always open to conversations about software engineering,
-creative technology, and meaningful collaborations.
-
-[LinkedIn](https://www.linkedin.com/in/ivy-nyambura-616b51376/) · [GitHub](https://github.com/Ivymnyambura) · [Email](mailto:monikaivy2@gmail.com)
-
-
-
-<!--
-**Ivymnyambura/Ivymnyambura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
