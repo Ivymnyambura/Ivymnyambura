@@ -1,15 +1,23 @@
 
 <div align="center">
 
-# Ivy Nyambura.
+# ivy nyambura<span style="color:#B8F28B">.</span>
 
-**Software Developer · Full Stack · AI Enthusiast**
+### SOFTWARE DEVELOPER
 
-*Building thoughtful digital experiences, one line of code at a time.*
+**Full Stack Development · AI & Machine Learning**
 
-[Portfolio]([https://ivy-nyambura-portfolio.vercel.app/)] (https://ivy-nyambura-portfolio-gl8u.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ivy-nyambura-616b51376/) • [Email](mailto:monikaivy2@gmail.com)
+*Engineering ideas. Crafting experiences.*
+
+![Profile](https://img.shields.io/badge/BUILDING%20WITH-PURPOSE-39276F?style=flat-square&labelColor=15111F&color=7654BC)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-B8F28B?style=flat-square&labelColor=15111F)
+
+[LinkedIn](https://www.linkedin.com/in/ivy-nyambura-616b51376/) · [GitHub](https://github.com/Ivymnyambura) · [Email](mailto:monikaivy2@gmail.com)
 
 </div>
+
+---
+
 
 ---
 
