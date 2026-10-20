@@ -29,7 +29,7 @@
         font-family="Arial, sans-serif"
         font-size="13"
         letter-spacing="3">
-   SOFTWARE DEVELOPER / UI&UX DESIGNER
+    SOFTWARE DEVELOPER / UI&amp;UX DESIGNER
   </text>
 
   <!-- Name -->
@@ -41,7 +41,8 @@
     Ivy M Nyambura
   </text>
 
-  <circle cx="405" cy="108" r="6"
+  <!-- Acid mint signature dot -->
+  <circle cx="495" cy="108" r="6"
           fill="#B8F28B"/>
 
   <!-- Tagline -->
