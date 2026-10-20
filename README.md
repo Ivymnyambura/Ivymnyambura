@@ -47,13 +47,18 @@ Software developer building thoughtful web applications and exploring intelligen
 ![Figma](https://img.shields.io/badge/Figma-39276F?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-39276F?style=flat-square&logo=vercel&logoColor=white)
 
-### `03 / selected work`
 
-| PROJECT | FOCUS |
-| :--- | :--- |
-| **[Face Tally](https://github.com/Ivymnyambura/FaceTally2.0)** | AI · Computer Vision · Full Stack |
-| **[The Abode](https://github.com/Ivymnyambura/The-Abode)** | React · TypeScript · UI/UX |
-| **[DevSynk](https://github.com/Ivymnyambura/DevSynk)** | Angular · Project Management |
+<div align="center">
+
+<img src="./assets/projects.svg" alt="Selected Projects" width="100%" />
+
+[![Face Tally](https://img.shields.io/badge/VIEW_FACE_TALLY-39276F?style=flat-square&logo=github&logoColor=white)](https://github.com/Ivymnyambura/FaceTally2.0)
+[![The Abode](https://img.shields.io/badge/VIEW_THE_ABODE-7654BC?style=flat-square&logo=github&logoColor=white)](https://github.com/Ivymnyambura/The-Abode)
+[![DevSynk](https://img.shields.io/badge/VIEW_DEVSYNK-B8F28B?style=flat-square&logo=github&logoColor=15111F)](https://github.com/Ivymnyambura/DevSynk)
+
+**`code. create. evolve.`**
+
+</div>
 
 <div align="center">
 
