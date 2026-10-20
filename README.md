@@ -9,13 +9,13 @@
 
 </div>
 
-### `01 / about`
+<img src="https://img.shields.io/badge/01_%2F_ABOUT-B8F28B?style=for-the-badge&labelColor=B8F28B&color=B8F28B" alt="01 / ABOUT" />
 
 Software developer building thoughtful web applications and exploring intelligent systems.
 
 `Currently building: DevSynk` · `AI & Cloud` · `One Dev Hackathon — 2nd Place`
 
-### `02 / toolkit`
+<img src="https://img.shields.io/badge/02_%2F_TOOLKIT-B8F28B?style=for-the-badge&labelColor=B8F28B&color=B8F28B" alt="02 / TOOLKIT" />
 
 **LANGUAGES**
 
@@ -62,6 +62,6 @@ Software developer building thoughtful web applications and exploring intelligen
 
 <div align="center">
 
-**`code. create. evolve.`**
+
 
 </div>
