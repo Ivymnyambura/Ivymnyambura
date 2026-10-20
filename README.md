@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="./assets/header.svg" alt="Ivy Nyambura — Software Developer" width="100%" />
+
+</div>
 <div align="center">
 
 <img src="./assets/header.svg" alt="Ivy Nyambura — Software Developer" width="100%" />
