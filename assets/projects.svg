@@ -1,0 +1,100 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="310"
+     viewBox="0 0 1000 310">
+
+  <rect width="1000" height="310"
+        rx="14" fill="#15111F"/>
+
+  <text x="28" y="35"
+        font-family="Arial, sans-serif"
+        font-size="15" font-weight="bold"
+        letter-spacing="2" fill="#B8F28B">
+    03 / SELECTED WORK
+  </text>
+
+  <text x="972" y="35" text-anchor="end"
+        font-family="monospace"
+        font-size="12" fill="#A9B8FF">
+    FEATURED PROJECTS
+  </text>
+
+  <!-- Face Tally -->
+  <rect x="28" y="55" width="944" height="68"
+        rx="8" fill="#39276F"/>
+
+  <rect x="28" y="55" width="5" height="68"
+        rx="2" fill="#B8F28B"/>
+
+  <text x="50" y="82"
+        font-family="Arial, sans-serif"
+        font-size="20" font-weight="bold"
+        fill="#FFFFFF">
+    FACE TALLY
+  </text>
+
+  <text x="50" y="104"
+        font-family="Arial, sans-serif"
+        font-size="13" fill="#A9B8FF">
+    AI / COMPUTER VISION / FULL STACK
+  </text>
+
+  <text x="945" y="94" text-anchor="end"
+        font-family="Arial, sans-serif"
+        font-size="24" fill="#B8F28B">
+    ↗
+  </text>
+
+  <!-- The Abode -->
+  <rect x="28" y="133" width="944" height="68"
+        rx="8" fill="#30204F"/>
+
+  <rect x="28" y="133" width="5" height="68"
+        rx="2" fill="#7654BC"/>
+
+  <text x="50" y="160"
+        font-family="Arial, sans-serif"
+        font-size="20" font-weight="bold"
+        fill="#FFFFFF">
+    THE ABODE
+  </text>
+
+  <text x="50" y="182"
+        font-family="Arial, sans-serif"
+        font-size="13" fill="#A9B8FF">
+    REACT / TYPESCRIPT / UI UX
+  </text>
+
+  <text x="945" y="172" text-anchor="end"
+        font-family="Arial, sans-serif"
+        font-size="24" fill="#B8F28B">
+    ↗
+  </text>
+
+  <!-- DevSynk -->
+  <rect x="28" y="211" width="944" height="68"
+        rx="8" fill="#241A39"/>
+
+  <rect x="28" y="211" width="5" height="68"
+        rx="2" fill="#A9B8FF"/>
+
+  <text x="50" y="238"
+        font-family="Arial, sans-serif"
+        font-size="20" font-weight="bold"
+        fill="#FFFFFF">
+    DEVSYNK
+  </text>
+
+  <text x="50" y="260"
+        font-family="Arial, sans-serif"
+        font-size="13" fill="#A9B8FF">
+    ANGULAR / SOFTWARE COLLABORATION
+  </text>
+
+  <text x="945" y="250" text-anchor="end"
+        font-family="Arial, sans-serif"
+        font-size="24" fill="#B8F28B">
+    ↗
+  </text>
+
+</svg>
