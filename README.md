@@ -1,11 +1,7 @@
+
 <div align="center">
 
-<img src="./assets/header.svg" alt="Ivy Nyambura — Software Developer" width="100%" />
-
-</div>
-<div align="center">
-
-<img src="./assets/header.svg" alt="Ivy Nyambura — Software Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/Ivymnyambura/Ivymnyambura/main/assets/header.svg?version=3" alt="Ivy M Nyambura — Software Developer" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-39276F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivy-nyambura-616b51376/)
 [![GitHub](https://img.shields.io/badge/GITHUB-7654BC?style=flat-square&logo=github&logoColor=white)](https://github.com/Ivymnyambura)
